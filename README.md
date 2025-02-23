@@ -83,3 +83,85 @@ public class Main {
         System.out.println("Hello, World!");
     }
 }
+```
+
+---
+
+## Blockquotes  
+
+> This is a blockquote.  
+> It can span multiple lines.  
+
+---
+
+## Tables  
+
+| Column 1 | Column 2 | Column 3 |  
+|----------|----------|----------|  
+| Data 1   | Data 2   | Data 3   |  
+| Data 4   | Data 5   | Data 6   |  
+
+---
+
+## Task Lists  
+
+- [x] Task 1  
+- [ ] Task 2  
+- [ ] Task 3  
+
+---
+
+## Horizontal Line  
+
+A horizontal line can be created using `---`, `***`, or `___`:  
+
+---  
+***  
+___  
+
+---
+
+## Escaping Special Characters  
+
+Use a backslash `\` before special characters to escape them:  
+
+- \*Escaped Asterisks\*  
+- \_Escaped Underscores\_  
+- \# Escaped Hash Symbol  
+
+---
+
+## Footnotes  
+
+This is a footnote example[^1].  
+
+[^1]: Footnote explanation here.  
+
+---
+
+## Mentions and References  
+
+- Mention a user: `@username`  
+- Reference an issue: `#123`  
+- Reference a commit: `commit_hash`  
+
+---
+
+## Collapsible Sections  
+
+<details>  
+  <summary>Click to expand</summary>  
+  This is a hidden section that expands when clicked.  
+</details>  
+
+---
+
+## Emojis  
+
+Use GitHub emojis:  
+
+- :smile: `:smile:`  
+- :rocket: `:rocket:`  
+- :tada: `:tada:`  
+
+---
